@@ -1,4 +1,5 @@
-# TouchBar_Bitcoin_Florincoin
+# Bitcoin and Florincoin on the TouchBar
+![Screenshot](https://i.imgur.com/OpQPT8S.jpg)
 #### Bitcoin and Florincoin on the Macbook Pro touchbar via BetterTouchTool
 
 1. Open BetterTouchTool Preferences
