@@ -1,6 +1,6 @@
 # Bitcoin and Florincoin on the TouchBar
 ![Screenshot](https://i.imgur.com/OpQPT8S.jpg)
-#### Bitcoin and Florincoin on the Macbook Pro touchbar via BetterTouchTool
+#### Bitcoin and Florincoin on the Macbook Pro touchbar via BetterTouchTool and AppleScript
 
 1. Open BetterTouchTool Preferences
 2. Press on the TouchBar tab and then on the 'Manage Presets' button
