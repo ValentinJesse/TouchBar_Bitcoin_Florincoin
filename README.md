@@ -18,6 +18,6 @@
 * https://coinmarketcap.com/currencies/florincoin/ 
 * https://github.com/dloa
 * https://github.com/oipwg 
-* https://explorer.alexandria.io
+* https://florincoin.info
    
 *You can use the Florincoin template to add all the cryptocurrencies provided by Bittrex. You can add/remove the links by double clicking on the widgets in BetterTouchTool *
