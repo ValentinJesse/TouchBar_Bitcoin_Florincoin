@@ -20,3 +20,4 @@
 * https://github.com/oipwg 
 * https://explorer.alexandria.io
    
+*You can use the Florincoin template to add all the cryptocurrencies provided by Bittrex*
