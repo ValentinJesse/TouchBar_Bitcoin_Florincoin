@@ -4,7 +4,7 @@
 
 1. Open BetterTouchTool Preferences
 2. Press on the TouchBar tab and then on the 'Manage Presets' button
-3. Import bitcoin_and_florincoin.json
+3. Import btc_flo.json
 ___
 
 #### The price of Bitcoin is being fetched from Coinbase every 60 seconds
