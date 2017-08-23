@@ -1,5 +1,5 @@
 # Bitcoin and Florincoin on the TouchBar
-![Screenshot](https://i.imgur.com/OpQPT8S.jpg)
+![Screenshot](https://i.imgur.com/lCqFiE8.jpg)
 #### Bitcoin and Florincoin on the Macbook Pro touchbar via BetterTouchTool and AppleScript
 
 1. Open BetterTouchTool Preferences
@@ -7,17 +7,14 @@
 3. Import bitcoin_and_florincoin.json
 
 #### The price of Bitcoin is being fetched from Coinbase every 60 seconds
--- Touching the button will open in Google Chrome the following: 
-* https://hypron.net/bitcoinwisdom/ (2x2 chart)
-    
-    
-#### The price of Florincoin is being fetched fom Bittrex every 60 seconds
--- Touching the button will open in Google Chrome the following: 
-* https://poloniex.com/exchange#btc_flo
-* https://bittrex.com/Market/Index?MarketName=BTC-FLO 
-* https://coinmarketcap.com/currencies/florincoin/ 
-* https://github.com/dloa
-* https://github.com/oipwg 
-* https://florincoin.info
+-- Touching the button will open in open in the default browser: https://hypron.net/bitcoinwisdom/ (2x2 chart)
+
+#### The price of Florincoin is being fetched fom Poloniex & Bittrex every 20 seconds
+* -- Touching the Poloniex (Green) button will open in the default browser: https://poloniex.com/exchange#btc_flo
+* -- Touching the Bittrex (Blue) button will open in the default browser: https://bittrex.com/Market/Index?MarketName=BTC-FLO
+
    
-*You can use the Florincoin template to add all the cryptocurrencies provided by Bittrex. You can add/remove the links by double clicking on the widgets in BetterTouchTool *
+*You can use the Florincoin template to add all the cryptocurrencies provided by Bittrex & Poloniex. You can add/remove the links by double clicking on the widgets in BetterTouchTool *
+
+Aditionally, with Poloniex you have to open https://poloniex.com/public?command=returnTicker and get the corresponding id number for the cryptocurrency that you want to add, and use that to replace "id":32 of FLO
+
