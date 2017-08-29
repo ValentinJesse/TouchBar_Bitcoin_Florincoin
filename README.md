@@ -7,7 +7,7 @@
 3. Import btc_flo.json
 ___
 
-#### The price of Bitcoin is being fetched from Coinbase every 60 seconds
+#### The price of Bitcoin is being fetched from Bitstamp every 60 seconds
 * Touching the button will open in open in the default browser: https://hypron.net/bitcoinwisdom/ (2x2 chart)
 
 #### The price of Florincoin is being fetched fom Poloniex & Bittrex every 20 seconds
